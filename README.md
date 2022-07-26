@@ -1,6 +1,6 @@
 # Step-By-Step Guide to integrate a webhook with Github using AWS 
 
-This is the part 4 of the technical series, it is available [here](https://www.jerrychang.ca/writing/step-by-step-guide-to-integrate-a-webhook-with-github-using-aw).
+This is the part 4 of the technical series, it is available [here](https://www.jerrychang.ca/writing/step-by-step-guide-to-integrate-a-webhook-with-github-using-aws).
 
 <img src="https://www.jerrychang.ca/images/og-webhook-step-by-step-guide-to-integrate-a-webhook-with-github-using-aws.png" alt="Step-by-step guide to integrate a webhook with Github using AWS" style="width:100%">
 
